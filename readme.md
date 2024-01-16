@@ -1,6 +1,9 @@
 Denis Shuleikin
+
 December 2023
+
 den.on.rails@gmail.com
+
 
 # Abstract
 Chatbots have become increasingly popular among everyday users, leading to their use not only for acquiring new knowledge but also for analytics, research, and machine interaction (computers). In this context, a chat interface alone is often insufficient. This concept aims to describe new types of user interfaces (UI) based on chat with Large Language Model (LLM) agents. An adaptive UI, integrating the chat interface of an LLM agent with familiar UI components, enhances the user experience. While interacting with a chatbot like ChatGPT, users will receive not just text-based answers but also a dashboard that enriches the response with links, images, statistical data, and other UI components commonly used in operating systems, applications, and websites. A graphical representation of LLM responses will facilitate easier understanding and deeper user engagement. Based on provided layout grids and examples, the LLM agent will generate a new layout each time it provides a chat response.
@@ -11,7 +14,7 @@ LLM chats (AI agents) gained significant popularity in 2023, with many people us
 # Concept Overview
 The UI consists of chat history and a dynamically generated UI based on chat context. The generated UI could be an interactive dashboard augmenting the LLM response, with the ability to interact with it. Links to extended data, shortcuts, summaries, or even control panel elements could be generated in response to user queries.
 
-![[concept01.png]]*Fig. 1. Example of an adaptive UI response from a chatbot
+![Fig. 1. Example of an adaptive UI response from a chatbot](concept01.png)
 
 The discussion begins with a text or voice
 
